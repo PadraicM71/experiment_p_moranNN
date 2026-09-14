@@ -236,7 +236,7 @@ https://www.tooplate.com/view/2139-neural-portfolio
             font-family: 'Orbitron', sans-serif;
             font-size: 5rem;
             font-weight: 900;
-            text-transform: uppercase;
+            /* text-transform: uppercase; */
             position: relative;
             color: var(--text-primary);
             letter-spacing: 8px;
